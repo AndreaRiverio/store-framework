@@ -42,8 +42,8 @@
     },
     "product-price": {
       "props": {
-        "showSavings": false,
-        "showListPrice": false
+        "showSavings": true,
+        "showListPrice": true
       }
     },
     "buy-button#product": {
