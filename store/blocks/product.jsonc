@@ -22,7 +22,7 @@
 
   "flex-layout.col#right":{
     "children": [
-      "prduct-name",
+      "product-name",
       "product-price",
       "buy-button"
     ],
